@@ -13,7 +13,8 @@ The python libraries used in training the model are:-
 PS - This was a Group Effort under the Guidance of Prof. Sudipta Chakrabarty faculty Departent of CSE-AIML and CSE-DS , Techno Main Salt Lake.
 
 The people involved were :-
-	Debanjan Bhattacharjee - https://github.com/collegecoder25
+	
+        Debanjan Bhattacharjee - https://github.com/collegecoder25
 	Abhiraj Bannerjee - https://github.com/Wriki-tmsl
 	Aishee Dutta - https://github.com/Aishee23
 	Shreya Paul - https://github.com/Shreyaa5
